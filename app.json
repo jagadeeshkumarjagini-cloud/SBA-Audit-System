@@ -12,11 +12,15 @@
     "android": {
       "package": "com.sba.audit.system",
       "versionCode": 1,
-      "permissions": ["CAMERA", "READ_EXTERNAL_STORAGE", "WRITE_EXTERNAL_STORAGE"]
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
     },
     "extra": {
       "eas": {
-        "projectId": "a3540e9a-b633-4186-b5cd-318fc4a7f4b7"
+        "projectId": "3511473c-8eeb-45f5-ad47-e25440195f45"
       }
     }
   }
