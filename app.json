@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "SBA Audit System",
+    "slug": "sba-audit-system",
+    "version": "1.0.0",
+    "owner": "jagadeesh.j",
+    "orientation": "portrait",
+    "icon": "./icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0A192F",
+    "sdkVersion": "50.0.0",
+    "android": {
+      "package": "com.sba.audit.system",
+      "versionCode": 1,
+      "permissions": ["CAMERA", "READ_EXTERNAL_STORAGE", "WRITE_EXTERNAL_STORAGE"]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a3540e9a-b633-4186-b5cd-318fc4a7f4b7"
+      }
+    }
+  }
+}
