@@ -9,6 +9,9 @@
     "userInterfaceStyle": "dark",
     "backgroundColor": "#0A192F",
     "sdkVersion": "50.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "android": {
       "package": "com.sba.audit.system",
       "versionCode": 1,
@@ -20,6 +23,7 @@
     },
     "extra": {
       "eas": {
+        "projectId": "3511473c-8eeb-45f5-ad47-e25440195f45"
       }
     }
   }
